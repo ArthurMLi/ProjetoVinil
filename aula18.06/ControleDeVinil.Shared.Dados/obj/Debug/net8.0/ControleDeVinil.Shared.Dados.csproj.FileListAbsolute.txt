@@ -1,0 +1,16 @@
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\bin\Debug\net8.0\ControleDeVinil.Shared.Dados.deps.json
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\bin\Debug\net8.0\ControleDeVinil.Shared.Dados.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\bin\Debug\net8.0\ControleDeVinil.Shared.Dados.pdb
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\bin\Debug\net8.0\ControleDeVinil.Shared.Modelos.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\bin\Debug\net8.0\ControleDeVinil.Shared.Modelos.pdb
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.csproj.AssemblyReference.cache
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.GeneratedMSBuildEditorConfig.editorconfig
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.AssemblyInfoInputs.cache
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.AssemblyInfo.cs
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.csproj.CoreCompileInputs.cache
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.sourcelink.json
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.csproj.CopyComplete
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\refint\ControleDeVinil.Shared.Dados.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ControleDeVinil.Shared.Dados.pdb
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Dados\obj\Debug\net8.0\ref\ControleDeVinil.Shared.Dados.dll

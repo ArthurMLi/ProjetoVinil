@@ -1,0 +1,23 @@
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.Shared.Modelos\bin\Debug\net8.0\ControleDeVinil.Shared.Modelos.deps.json
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.Shared.Modelos\bin\Debug\net8.0\ControleDeVinil.Shared.Modelos.dll
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.Shared.Modelos\bin\Debug\net8.0\ControleDeVinil.Shared.Modelos.pdb
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.AssemblyInfoInputs.cache
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.AssemblyInfo.cs
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.csproj.CoreCompileInputs.cache
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.dll
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\refint\ControleDeVinil.Shared.Modelos.dll
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.pdb
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ref\ControleDeVinil.Shared.Modelos.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Modelos\bin\Debug\net8.0\ControleDeVinil.Shared.Modelos.deps.json
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Modelos\bin\Debug\net8.0\ControleDeVinil.Shared.Modelos.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Modelos\bin\Debug\net8.0\ControleDeVinil.Shared.Modelos.pdb
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.GeneratedMSBuildEditorConfig.editorconfig
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.AssemblyInfoInputs.cache
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.AssemblyInfo.cs
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.csproj.CoreCompileInputs.cache
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.sourcelink.json
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\refint\ControleDeVinil.Shared.Modelos.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ControleDeVinil.Shared.Modelos.pdb
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.Shared.Modelos\obj\Debug\net8.0\ref\ControleDeVinil.Shared.Modelos.dll

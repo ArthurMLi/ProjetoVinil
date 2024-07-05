@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ControleDeVinil.WebAPI.props" />
+</Project>

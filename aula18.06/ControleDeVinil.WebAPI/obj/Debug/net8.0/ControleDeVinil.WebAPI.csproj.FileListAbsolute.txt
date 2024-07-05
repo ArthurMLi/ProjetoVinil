@@ -1,0 +1,73 @@
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\appsettings.json
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.WebAPI.exe
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.WebAPI.deps.json
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.WebAPI.runtimeconfig.json
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.WebAPI.dll
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.WebAPI.pdb
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.csproj.AssemblyReference.cache
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.AssemblyInfoInputs.cache
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.AssemblyInfo.cs
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.csproj.CoreCompileInputs.cache
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.ControleDeVinil.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ControleDeVinil.WebAPI.props
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ControleDeVinil.WebAPI.props
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ControleDeVinil.WebAPI.props
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\scopedcss\bundle\ControleDeVinil.WebAPI.styles.css
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.csproj.CopyComplete
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.dll
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\refint\ControleDeVinil.WebAPI.dll
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.pdb
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.genruntimeconfig.cache
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ref\ControleDeVinil.WebAPI.dll
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.Shared.Modelos.dll
+C:\Users\12200069\Downloads\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.Shared.Modelos.pdb
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.csproj.AssemblyReference.cache
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.GeneratedMSBuildEditorConfig.editorconfig
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.AssemblyInfoInputs.cache
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.AssemblyInfo.cs
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.csproj.CoreCompileInputs.cache
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.MvcApplicationPartsAssemblyInfo.cs
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.MvcApplicationPartsAssemblyInfo.cache
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.sourcelink.json
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\refint\ControleDeVinil.WebAPI.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.pdb
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\appsettings.Development.json
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\appsettings.json
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.WebAPI.exe
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.WebAPI.deps.json
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.WebAPI.runtimeconfig.json
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.WebAPI.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.WebAPI.pdb
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\Microsoft.OpenApi.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.Shared.Dados.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.Shared.Modelos.dll
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.Shared.Dados.pdb
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\bin\Debug\net8.0\ControleDeVinil.Shared.Modelos.pdb
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\staticwebassets.build.json
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\staticwebassets.development.json
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.ControleDeVinil.WebAPI.Microsoft.AspNetCore.StaticWebAssets.props
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.build.ControleDeVinil.WebAPI.props
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ControleDeVinil.WebAPI.props
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ControleDeVinil.WebAPI.props
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\staticwebassets.pack.json
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\scopedcss\bundle\ControleDeVinil.WebAPI.styles.css
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.csproj.CopyComplete
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ControleDeVinil.WebAPI.genruntimeconfig.cache
+H:\POO1\2 Etapa\POO\poo\aula18.06\ControleDeVinil.WebAPI\obj\Debug\net8.0\ref\ControleDeVinil.WebAPI.dll
